@@ -65,8 +65,8 @@ num_list = [2, 0, 9, 6, 7, 3, 1]
 # num_list.sort()
 
 # 降序使用sort方法，中括号()中 reverse=True，从大到小排列
-# num_list.sort(reverse=True)
-# name1_list.sort(reverse=True)
+num_list.sort(reverse=True)
+name1_list.sort(reverse=True)
 
 # 倒序、反转使用reverse() 中括号留空
 num_list.reverse()
